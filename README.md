@@ -1,4 +1,4 @@
-# Ferns-and-Petals---Gifting-brand-Dashboard
+# Ferns-and-Petals-Gifting-brand-Dashboard
 
 An interactive Power BI sales analysis dashboard built to understand
 sales performance, customer ordering patterns, product performance,
